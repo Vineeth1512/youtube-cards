@@ -382,8 +382,6 @@ const videos = [
 ]
 
 
-
-
 function App() {
   return (
     <div id="video-card-wrapper">
